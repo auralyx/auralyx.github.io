@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url("../image_1.webp");
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+}
+
+header h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+#brushes {
+    background-color: mediumaquamarine;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
